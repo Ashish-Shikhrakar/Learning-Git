@@ -25,9 +25,15 @@ a {
   padding: 2.5rem;
   border: 3px solid #ebcb90;
   margin: 0 auto;
-  max-width: 600px;
+  width: 600px;
+  max-width: 1080px;
   border-radius: 12px;
 }
+
+.centered-text {
+  text-align: center;
+}
+
 .button-style {
   padding: 1.5rem;
   background: #f6e6c8;
