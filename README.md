@@ -4,7 +4,7 @@
 
 - Make sure you have git installed in your laptops:
 
-Download from here if you haven't installed it yet: https://git-scm.com/downloads
+  Download from here if you haven't installed it yet: https://git-scm.com/downloads
 
 - Install vs code from [here](https://code.visualstudio.com/download).
 - From this page click on the arrow button next to the code button and copy the https url.
